@@ -1,0 +1,11 @@
+Total Nodes : 4
+Total Colors : 3
+Enter colors : red
+Enter colors : green
+Enter colors : blue
+Enter total Edge : 5
+0 1
+0 2
+0 3
+2 1
+2 3
